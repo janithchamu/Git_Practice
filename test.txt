@@ -1,4 +1,2 @@
 hi
-this is remote modify
-this local modify
-this second remote modify
+modify in remote
