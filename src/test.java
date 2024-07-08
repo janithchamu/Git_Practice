@@ -4,5 +4,6 @@ public class test{
  
     public void getAddition(){
     System.out.println(x+y);
+    
     }
 }
